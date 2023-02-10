@@ -3,3 +3,4 @@ problem,notes
 Best Time to Buy & Sell Stock,iterate through the array and set the buy price if lower than previous buy price. Set profit as max between profit and current price - buy price 
 Contains Duplicate,convert list to set and check lengths, if different return True.
 Product of Array Except Self,value at a given position in output is equal to the product of all the elements to the left and product of all the elements to the right
+Maximum Subarray, keep a running sum (init to 0) that represents the sum up until the current number, if running sum is less than 0 it doesnt contribute to the max sum (set it to 0). Inc rs by current number. 
