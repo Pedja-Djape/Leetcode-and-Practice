@@ -4,3 +4,4 @@ Best Time to Buy & Sell Stock,iterate through the array and set the buy price if
 Contains Duplicate,convert list to set and check lengths, if different return True.
 Product of Array Except Self,value at a given position in output is equal to the product of all the elements to the left and product of all the elements to the right
 Maximum Subarray, keep a running sum (init to 0) that represents the sum up until the current number, if running sum is less than 0 it doesnt contribute to the max sum (set it to 0). Inc rs by current number. 
+Find Minimum in Rotated Sorted Array, Keep left and right end ptrs and shift one of the ptrs to the middle accordingly until minimum is found. Note, have if condition when left ptr is just before right ptr.
