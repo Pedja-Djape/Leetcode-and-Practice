@@ -1,0 +1,17 @@
+6. Heaps
+    - Know how to use them
+    - Know the complexities of different operations
+
+6. Sliding Window
+    - Two pointer method while iterating through array.
+
+4. Binary Search
+    - Sometimes can be difficult to know when to use.
+
+3. DFS + BFS
+    - Usually O(V + E) time and space complexity.
+
+2. Recursion    
+    - Trees, Graphs, Backtracking, DP + more 
+
+1. HashMaps
